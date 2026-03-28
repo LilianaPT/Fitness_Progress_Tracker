@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="FitnessProgressTracker/FitnessProgressTracker.vcxproj" Id="06f70bf1-c173-44e4-9941-c40b9e48030d" />
-</Solution>
